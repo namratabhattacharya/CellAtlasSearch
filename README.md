@@ -1,3 +1,4 @@
 # CellAtlasSearch
+## A Human single cell RNA-Seq Search Engine
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[CellAtlasSearch: A Human single cell RNA-Seq Search Engine](http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php)
