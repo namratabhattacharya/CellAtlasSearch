@@ -5,7 +5,7 @@
 ---
 **NOTE**
 
-Cell Atlas Search can be accessed from <http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php> from 28 January, 2022.
+Cell Atlas Search can be accessed from [here] <http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php> from 28 January, 2022.
 
 ---
 
