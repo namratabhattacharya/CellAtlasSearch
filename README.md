@@ -8,5 +8,6 @@
 # text in gray
 @@ text in purple (and bold)@@
 
+```
 
-```[CellAtlasSearch: A Human single cell RNA-Seq Search Engine](http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php)
+[CellAtlasSearch: A Human single cell RNA-Seq Search Engine](http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php)
