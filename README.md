@@ -5,7 +5,7 @@
 ---
 **NOTE**
 
-It works with almost all markdown flavours (the below blank line matters).
+Cell Atlas Search can be accessed from <http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php> from 28 January, 2022.
 
 ---
 
