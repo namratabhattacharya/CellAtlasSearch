@@ -1,8 +1,9 @@
 # CellAtlasSearch
 ## A Human single cell RNA-Seq Search Engine
 
-![Update](https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.svg | width=100)
+<img src="https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.svg" width="100" height="100">
 ---
+
 **NOTE**
 
 Cell Atlas Search can be accessed from [here](http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php) from 28 January, 2022.
