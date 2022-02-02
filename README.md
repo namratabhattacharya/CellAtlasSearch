@@ -15,5 +15,5 @@ An explosion in production of single-cell expression data has triggered the need
 
 
 
-# Cite us:
+## Cite us:
 Divyanshu Srivastava, Arvind Iyer, Vibhor Kumar, Debarka Sengupta; CellAtlasSearch: a scalable search engine for single cells, Nucleic Acids Research,gky421,https://doi.org/10.1093/nar/gky421
