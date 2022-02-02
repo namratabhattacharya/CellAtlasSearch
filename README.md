@@ -3,7 +3,7 @@
 <img src="https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.svg" width="300" height="200">
 
 ---
-**NOTE**
+**NOTE:**
 
 Cell Atlas Search can be accessed from [here](http://cellatlassearch.iiitd.edu.in/cellatlassearch/index.php) from 28 January, 2022.
 
