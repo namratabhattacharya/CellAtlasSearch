@@ -1,7 +1,7 @@
 # CellAtlasSearch
 ## A Human single cell RNA-Seq Search Engine
 
-![Update](https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.svg)
+![Update](https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.svg=250x250)
 ---
 **NOTE**
 
