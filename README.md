@@ -1,7 +1,7 @@
 # CellAtlasSearch
 ## A Human single cell RNA-Seq Search Engine
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/namratabhattacharya/CellAtlasSearch/blob/main/logo.png)
 ---
 **NOTE**
 
